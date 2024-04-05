@@ -1,17 +1,20 @@
-### Hi there 👋
+![Banner](static/banner.png)
+---
+Hey, I'm **Krumbit** 👋! I'm a full-stack developer, designer, and student, working primarily in the web development scene. You can find my past projects and methods to contact me on my [portfolio](https://krumb.it).
 
-#### This `README` is WIP. Check back soon!
-<!--
-**Krumbit/Krumbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages and Tools 🛠️
 
-Here are some ideas to get you started:
+### Expert
+[![My Sills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,next,vercel,nodejs,bun,unity,git,github,vscode,idea,mongodb,prisma,java&perline=9)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Proficient
+[![My Skills](https://skillicons.dev/icons?i=vite,figma,mysql,postgres,py&perline=9)](https://skillicons.dev)
+
+### Learning
+[![My Skills](https://skillicons.dev/icons?i=supabase,express,aws,docker,cs&perline=9)](https://skillicons.dev)
+
+### Interested in learning
+[![My Skills](https://skillicons.dev/icons?i=apollo,graphql,astro,django,electron,emotion,flask,vitest,vim,vue,nuxtjs,svelte,redis,redux,sentry,solidjs,swift,tauri&perline=9)](https://skillicons.dev)
+
+## Information 📊
+[![Hits](https://hits-app.vercel.app/hits?url=https://github.com/krumbit&bgLeft=444444&bgRight=815AF0&label=visits)](https://hits-app.vercel.app/)
