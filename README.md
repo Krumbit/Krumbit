@@ -17,4 +17,4 @@ Hey, I'm **Krumbit** 👋! I'm a full-stack developer, designer, and student, wo
 [![My Skills](https://skillicons.dev/icons?i=apollo,graphql,astro,django,electron,emotion,flask,vitest,vim,vue,nuxtjs,svelte,redis,redux,sentry,solidjs,swift,tauri&perline=9)](https://skillicons.dev)
 
 ## Information 📊
-[![Hits](https://hits-app.vercel.app/hits?url=https://github.com/krumbit&bgLeft=444444&bgRight=815AF0&label=visits)](https://hits-app.vercel.app/)
+![](https://komarev.com/ghpvc/?username=krumbit&color=blueviolet)
